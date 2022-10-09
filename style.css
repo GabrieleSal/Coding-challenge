@@ -1,0 +1,52 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+#container {
+  margin: 75px;
+  border: 75px;
+  padding: 150px;
+  background: rgba(0, 0, 0, 0.5);
+}
+header {
+  text-align: center;
+}
+#Logo {
+  width: 200px;
+}
+#Title {
+  color: #7FFF00;
+  font-family: 'Josefin Sans', sans-serif;
+}
+nav {
+  text-align: center;
+  background-color: #7FFF00;
+  padding: 20px;
+}
+main section {
+  text-align: left;
+  font-family: 'Josefin Sans', sans-serif;
+  padding-top: 30px;
+}
+.titles {
+  display: inline;
+  color: white;
+}
+.button {
+  display: inline;
+}
+section p {
+  color: white;
+}
+#bar1 {
+  border-top: 30px solid #FF8C00;
+  margin-right: 700px;
+}
+#bar2 {
+  border-top: 30px solid #32CD32;
+  margin-right: 400px;
+}
+#bar3 {
+ border-top: 30px solid #800000;
+ margin-right: 900px;
+}
